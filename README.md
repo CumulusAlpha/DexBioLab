@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-F5F5F7?style=flat-square&logo=arxiv&logoColor=111111&labelColor=F5F5F7&color=E8E8ED)](https://arxiv.org/abs/2610.13643)
 [![Project Page](https://img.shields.io/badge/Project-Page-F5F5F7?style=flat-square&logo=safari&logoColor=111111&labelColor=F5F5F7&color=E8E8ED)](https://cumulusalpha.github.io/DexBioLabWebPage/)
+[![Hugging Face Datasets](https://img.shields.io/badge/Hugging%20Face-Datasets-F5F5F7?style=flat-square&logo=huggingface&logoColor=111111&labelColor=F5F5F7&color=E8E8ED)](https://huggingface.co/datasets/22364yiqun/DexBioLab)
 
 ---
 
